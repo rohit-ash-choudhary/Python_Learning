@@ -9,3 +9,5 @@ obj2=Test()
 #print(type(obj1))
 
 print(Test.config(obj1))
+
+print("hello class and object :"+ __name__)

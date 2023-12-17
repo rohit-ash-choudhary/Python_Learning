@@ -14,3 +14,5 @@ obj2=TestA('Nvdia',32);
 
 obj1.ram();
 obj2.ram();
+
+

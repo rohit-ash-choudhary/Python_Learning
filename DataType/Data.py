@@ -1,3 +1,15 @@
+
+a=4:
+def fuct():
+    b=5
+    return a
+
+b=43
+
+print(b)
+
+
+
 i=34
 f=34.3
 s="stroing"
